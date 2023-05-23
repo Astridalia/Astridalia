@@ -1,17 +1,40 @@
-🌟 Astridalia 🌟
+## About Me
 
-Hello there! 👋 I value privacy and believe in keeping personal information secure. As such, I prefer to maintain a minimal online presence. 
+Hello there! I'm Astridalia, an avid anime enthusiast and a passionate developer. Just like Yoshino Himekawa from the anime series "Date A Live," I strive to bring warmth and positivity to the projects I work on.
 
-🔭 Currently working on: Exploring the fascinating world of software development and expanding my programming skills.
 
-🌱 Learning: Various programming languages, frameworks, and tools. Always eager to acquire new knowledge and stay up-to-date with the latest tech trends.
+<img src="https://static.wikia.nocookie.net/date-a-live/images/6/6d/Yoshino_Spirit_Form.png" width="50"/>Yoshino Himekawa is a gentle and soft-spoken spirit with the ability to control the weather and summon a powerful puppet named Yoshinon. Similarly, in the world of coding, I aim to create elegant and efficient solutions while maintaining a friendly and collaborative approach.
 
-💡 Interests: Open-source projects, web development, data analysis, and problem-solving. Passionate about leveraging technology to create innovative and meaningful solutions.
+## Projects
 
-📚 Background: I have a diverse background and enjoy exploring different fields, from science and mathematics to art and literature.
+Here are some of the projects I have worked on:
 
-🔒 Privacy-focused: I respect privacy and prioritize the security of personal data. Let's work together to build a safer and more secure digital world!
+### [wizlib](https://github.com/Astridalia/wizlib)
 
-📫 Connect with me: As a privacy-conscious individual, I prefer to keep my online interactions minimal. Feel free to reach out via direct message if you have any questions or opportunities to collaborate.
+- Description: A simple set of utilities for the popular game "Wizard101", which is available to anyone to use. 
+- Technologies: Go
 
-Remember, privacy matters! 🕊️
+### [graphene](https://github.com/Astridalia/graphene)
+
+- Description: Minecraft's minimal lua scripting interpreter! 
+- Technologies: Kotlin, Java, MongoDB
+
+<!-- ### Project 3
+
+- Description: A data analysis tool for extracting insights from anime sales data.
+- Technologies: Python, Pandas, Matplotlib.
+- Repository: [Project 3](https://github.com/Astridalia/project3) -->
+
+Feel free to explore these projects and provide any feedback or suggestions you may have. Contributions and collaborations are always welcome!
+
+<!-- ## Contact
+
+You can reach me through the following channels:
+
+- Email: [astridalia@example.com](mailto:astridalia@example.com)
+- Twitter: [@AstridaliaDev](https://twitter.com/AstridaliaDev)
+- LinkedIn: [Astridalia](https://www.linkedin.com/in/astridalia/)
+
+Let's connect and discuss all things anime, coding, or anything in between! 😄 -->
+
+Thank you for visiting my profile, and I hope you have a wonderful day filled with anime magic and coding adventures! ✨
