@@ -1,9 +1,9 @@
 ## About Me
 
-Hello there! I'm Astridalia, an avid anime enthusiast and a passionate developer. Just like Yoshino Himekawa from the anime series "Date A Live," I strive to bring warmth and positivity to the projects I work on.
+Hello there! I'm Astridalia, an avid anime enthusiast and a passionate developer. 
 
 
-<img src="https://static.wikia.nocookie.net/date-a-live/images/6/6d/Yoshino_Spirit_Form.png" width="50"/>Yoshino Himekawa is a gentle and soft-spoken spirit with the ability to control the weather and summon a powerful puppet named Yoshinon. Similarly, in the world of coding, I aim to create elegant and efficient solutions while maintaining a friendly and collaborative approach.
+I aim to create elegant and efficient solutions while maintaining a friendly and collaborative approach.
 
 ## Projects
 
