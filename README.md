@@ -1,3 +1,5 @@
+Open-source projects, web development, data analysis, and problem-solving.
+
 ## About Me
 
 Hello there! I'm Astridalia, an avid anime enthusiast and a passionate developer. 
